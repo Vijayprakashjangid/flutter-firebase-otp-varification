@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325203568422",
+    "project_id": "phone-otp-1",
+    "storage_bucket": "phone-otp-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325203568422:android:08d619cd609e812f32c3e7",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325203568422-sre8531fkgkr399s9s3au9m6ct9c8cai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvpm2HBQqF-XWPfHD0TGQQiJYGU15Azg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325203568422-sre8531fkgkr399s9s3au9m6ct9c8cai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
