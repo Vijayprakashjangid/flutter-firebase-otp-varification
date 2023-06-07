@@ -2,15 +2,39 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+At this time i was also learning git and github so just i want to save this commands.
 
-A few resources to get you started if this is your first Flutter project:
+Git and Github
+git config --global user.name "Mona Lisa"
+git init
+git add .
+git commit -m "first commit"
+git log
+git status
+git restore
+git rm index.html
+git mv about.html about1.html
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ls
+open -a
+git -status
+git add filename
+git commit -m "Completed Chapter 1"
+git log
+git log --onelinegit checkout
+git branch 
+git merge
+git branch --delete branch name
+git stash
+git stash apply list 
+git stash apply 0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+upload code on github
+
+git remote add origin https://github.com/Vijayprakashjangid/flutter-firebase-otp-varification.git
+
+git add .
+git commit -m "flutter fire otp"
+git log --oneline
+git push -u origin main
